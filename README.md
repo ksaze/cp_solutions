@@ -1,1 +1,1 @@
-Solutions with documentation for some competitive programming problem from codeforces by yours truly.
+Solutions with documentation for some competitive programming problems from Codeforces by yours truly.
