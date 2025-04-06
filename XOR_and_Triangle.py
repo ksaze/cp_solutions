@@ -1,4 +1,4 @@
-```
+'''
 Problem link: https://codeforces.com/problemset/problem/2074/C
 
 Difficulty: 1100 / 3-C
@@ -34,7 +34,7 @@ Except for the above three edge cases, we can calculate y easily by just startin
   
 Time complexity: O(log(n))
 Space complexity: O(1)
-```
+'''
 
 def solve():
     x = int(input())
